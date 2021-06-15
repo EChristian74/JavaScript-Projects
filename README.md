@@ -21,9 +21,31 @@ Installatiions
 
 Projects
 
-* NAME (nickname) - This page is an example ... . It's styled using ... and further enhanced using ... .  The ... and contains a navbar, image containers, and a form. 
+Basic JavaScript Projects Submission - Submission of initial JavaScript challenges acquainting us with basic JavaScript functionality, including the following:
 
-* 
+* FOLDER STRUCTURE ASSIGNMENT - Step 36
+* SCRIPT ASSIGNMENT - Step 38
+* WINDOW.ALERT() METHOD ASSIGNMENT - Step 40
+* DOCUMENT.WRITE() METHOD ASSIGNMENT - Step 42
+* ASSIGN VARIABLE TO STRING + DOCUMENT.WRITE() - Step 46
+* STRING ASSIGNMENT - Step 49
+* ESCAPE CHARACTER ASSIGNMENT - Step 51
+* CONCATENATION ASSIGNMENT - Step 53
+* CONCATENATED STRING CHALLENGE - Step 54
+* MULTIPLE VARIABLES ASSIGNMENT - Step 56
+* COLORS ASSIGNMENT - Step 58
+* EXPRESSION ASSIGNMENT - Step 60
+* COMMENT ASSIGNMENT - Step 65
+* Submitted 6/14/2021 
+
+
+
+Project2_Functions Submission - Submission of second round of JavaScript challenges acquainting us with JavaScript functions, including the following: 
+
+* FUNCTION ASSIGNMENT: document.getElementById method - Step 68
+* OPERATOR ASSIGNMENT: += operator to concatenate a string – Step 70
+* Submitted 6/15/2021
+
 
 
 Authors
