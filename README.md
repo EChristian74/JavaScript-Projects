@@ -39,12 +39,27 @@ Basic JavaScript Projects Submission - Submission of initial JavaScript challeng
 * Submitted 6/14/2021 
 
 
-
 Project2_Functions Submission - Submission of second round of JavaScript challenges acquainting us with JavaScript functions, including the following: 
 
 * FUNCTION ASSIGNMENT: document.getElementById method - Step 68
 * OPERATOR ASSIGNMENT: += operator to concatenate a string – Step 70
+* JavaScript Commenting
 * Submitted 6/15/2021
+
+Project3_Math_Operators Submission - Submission of third round of JavaScript challenges acquainting us with JavaScript functions, including the following: 
+
+* MATH OPERATORS ASSIGNMENT: Create repository folder, index.html, addition operation  - Step 81
+* SUBTRACTION ASSIGNMENT: Subtraction operation - Step 83
+* MULTIPLICATION AND DIVISION ASSIGNMENT: Product and Quotient - Step 85
+* MULTIPLE OPERATORS ASSIGNMENT: Multiple operations - Step 87
+* MODULUS OPERATOR ASSIGNMENT: Modulus operator - Step 89
+* NEGATION OPERATOR ASSIGNMENT: Unary and binary operator lesson - Step 91
+* INCREMENT AND DECREMENT ASSIGNMENT: Increment and decrement operators - Step 93
+* MATH.RANDOM ASSIGNMENT: Math.rancom() function - Step 95
+* Elements and event handlers for JavaScript
+* JavaScript Commenting
+* Submitted 6/16/2021
+
 
 
 
