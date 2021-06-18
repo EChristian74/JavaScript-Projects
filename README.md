@@ -60,6 +60,14 @@ Project3_Math_Operators Submission - Submission of third round of JavaScript cha
 * JavaScript Commenting
 * Submitted 6/16/2021
 
+Project4_dictionaries Submission - Submission of fourth round of JavaScript challenges acquainting us with JavaScript functions, including the following: 
+
+* DICTIONARY ASSIGNMENT: Create project folder, index.html, JS folder, and main.js - Step 100
+* DICTIONARY CHALLENGE: Test duplicate keys - Step 101
+* DELETE ASSIGNMENT: Test delete operator - Step 103
+* JavaScript Commenting
+* Submitted 6/18/2021
+
 
 
 
