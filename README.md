@@ -79,9 +79,9 @@ Project5_comparisons_type_coercion - Submission of fourth round of JavaScript ch
 * CONSOLE.LOG ASSIGNMENT: Perform a math operation with the console.log() function - Step 118
 * BOOLEAN CHALLENGE: Display “false” in the console using Boolean logic and the console.log() method - Step 119
 * DOUBLE EQUAL SIGNS ASSIGNMENT: Utilize == to return “true” and “false” - Step 121 
-* x
-* x
-* x
+* TRIPLE EQUAL SIGNS ASSIGNMENT: Utilize === to return “true” and “false” in multiple ways - Step 123
+* AND OPERATOR ASSIGNMENT: Utilize the AND operator to display true and false + utilize the OR operator to display true and false - Step 125
+* NOT OPERATOR ASSIGNMENT: Utilize the NOT operator to display true and false - Step 127
 * JavaScript Commenting
 * Submitted 6/19/2021
 
