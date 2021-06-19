@@ -68,6 +68,22 @@ Project4_dictionaries Submission - Submission of fourth round of JavaScript chal
 * JavaScript Commenting
 * Submitted 6/18/2021
 
+Project5_comparisons_type_coercion - Submission of fourth round of JavaScript challenges acquainting us with JavaScript functions, including the following: 
+
+* DICTIONARY ASSIGNMENT: Create project folder, index.html, JS folder, and main.js - Step 
+* DICTIONARY CHALLENGE: document.write()” method and “type of” operator to return variable data type - Step 107
+* TYPE COERCION ASSIGNMENT: Utilize type coercion to execute data type converstion - Step 108
+* NAN CHALLENGE: Display NaN, utilize the isNaN() function to make the browser display “true,” and utilize the isNaN() function to make the browser display “false”
+* INFINITY ASSIGNMENT: Write large enough number and negative number to display “Infinity” and “-Infinity” respectively - Step 114
+* BOOLEAN ASSIGNMENT: Use Boolean logic to display true and false using the greater than and lesser than operators - Step 116
+* CONSOLE.LOG ASSIGNMENT: Perform a math operation with the console.log() function - Step 118
+* BOOLEAN CHALLENGE: Display “false” in the console using Boolean logic and the console.log() method - Step 119
+* DOUBLE EQUAL SIGNS ASSIGNMENT: Utilize == to return “true” and “false” - Step 121 
+* JavaScript Commenting
+* Submitted 6/18/2021
+
+
+
 
 
 
