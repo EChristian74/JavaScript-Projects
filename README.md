@@ -92,11 +92,9 @@ Project6_ternary__operators_constructors - Submission of fourth round of JavaScr
 * CODING ASSIGNMENT: Write and execute the HTML and JavaScript code exactly as laid out in the previous course step - Step 136
 * NEW KEYWORD ASSIGNMENT: Open index.html and write the following code within the <body> element - used keyword "switch" - Step 136
 * RESERVED KEYWORD CHALLENGE: Assign a variable the value of a reserved word + write an object constructor - Step 138
-*  NESTED FUNCTIONS ASSIGNMENT: Write a nested function + include document.getElementById() method - Step 141
-* 
-* 
+* NESTED FUNCTIONS ASSIGNMENT: Write a nested function + include document.getElementById() method - Step 141 
 * JavaScript Commenting
-* Submitted 6/19/2021
+* Submitted 6/20/2021
 
 
 
