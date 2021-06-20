@@ -70,7 +70,7 @@ Project4_dictionaries Submission - Submission of fourth round of JavaScript chal
 
 Project5_comparisons_type_coercion - Submission of fourth round of JavaScript challenges acquainting us with JavaScript functions, including the following: 
 
-* DICTIONARY ASSIGNMENT: Create project folder, index.html, JS folder, and main.js - Step 
+* DICTIONARY ASSIGNMENT: Create project folder, index.html, JS folder, and main.js
 * DICTIONARY CHALLENGE: document.write()” method and “type of” operator to return variable data type - Step 107
 * TYPE COERCION ASSIGNMENT: Utilize type coercion to execute data type converstion - Step 108
 * NAN CHALLENGE: Display NaN, utilize the isNaN() function to make the browser display “true,” and utilize the isNaN() function to make the browser display “false”
@@ -85,7 +85,18 @@ Project5_comparisons_type_coercion - Submission of fourth round of JavaScript ch
 * JavaScript Commenting
 * Submitted 6/19/2021
 
+Project6_ternary__operators_constructors - Submission of fourth round of JavaScript challenges acquainting us with JavaScript functions, including the following: 
 
+* PROJECT6_TERNARY__OPERATORS_CONSTRUCTORS ASSIGNMENT: Create project folder, index.html, JS folder, and main.js - Step 130
+* TERNARY OPERATORS CHALLENGE: Utilizing HTML, JavaScript and ternary operators, create a basic program that outputs whether or not a user is old enough to vote - Step 131
+* CODING ASSIGNMENT: Write and execute the HTML and JavaScript code exactly as laid out in the previous course step - Step 136
+* NEW KEYWORD ASSIGNMENT: Open index.html and write the following code within the <body> element - used keyword "switch" - Step 136
+* RESERVED KEYWORD CHALLENGE: Assign a variable the value of a reserved word + write an object constructor - Step 138
+*  NESTED FUNCTIONS ASSIGNMENT: Write a nested function + include document.getElementById() method - Step 141
+* 
+* 
+* JavaScript Commenting
+* Submitted 6/19/2021
 
 
 
