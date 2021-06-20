@@ -5,7 +5,6 @@ function car_Function() {   //Function to create dictionary
         Model:"Pantera",    //Define KVP 3
         Body:"2-door coupe",    //Define KVP 4
         Engine:"Ford 302 V8",   //Define KVP 5 
-        Engine:"Ford 427",   //Define KVP 6 to test duplicate keys - tested code with and without this key/pair
         Transmission:"5-speed manual"   //Define KVP 7
     };       
     delete Car.Engine;  //Delete operation
