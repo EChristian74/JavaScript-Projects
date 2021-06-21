@@ -68,7 +68,7 @@ Project4_dictionaries Submission - Submission of fourth round of JavaScript chal
 * JavaScript Commenting
 * Submitted 6/18/2021
 
-Project5_comparisons_type_coercion - Submission of fourth round of JavaScript challenges acquainting us with JavaScript functions, including the following: 
+Project5_comparisons_type_coercion - Submission of fifth round of JavaScript challenges acquainting us with JavaScript functions, including the following: 
 
 * DICTIONARY ASSIGNMENT: Create project folder, index.html, JS folder, and main.js
 * DICTIONARY CHALLENGE: document.write()” method and “type of” operator to return variable data type - Step 107
@@ -85,7 +85,7 @@ Project5_comparisons_type_coercion - Submission of fourth round of JavaScript ch
 * JavaScript Commenting
 * Submitted 6/19/2021
 
-Project6_ternary__operators_constructors - Submission of fourth round of JavaScript challenges acquainting us with JavaScript functions, including the following: 
+Project6_ternary__operators_constructors - Submission of sixth round of JavaScript challenges acquainting us with JavaScript functions, including the following: 
 
 * PROJECT6_TERNARY__OPERATORS_CONSTRUCTORS ASSIGNMENT: Create project folder, index.html, JS folder, and main.js - Step 130
 * TERNARY OPERATORS CHALLENGE: Utilizing HTML, JavaScript and ternary operators, create a basic program that outputs whether or not a user is old enough to vote - Step 131
@@ -96,8 +96,15 @@ Project6_ternary__operators_constructors - Submission of fourth round of JavaScr
 * JavaScript Commenting
 * Submitted 6/20/2021
 
+Project7_scope_time_function - Submission of seventh round of JavaScript challenges acquainting us with JavaScript functions, including the following: 
 
-
+* LOCAL AND GLOBAL VARIABLE ASSIGNMENT: Create project folder, index.html, JS folder, and main.js, write a global variable, write a local variable, write a function with an error in it and use console.log() method to debug - Step 144
+* METHOD ASSIGNMENT: If statement that utilizes the new Date().getHours() + document.getElementById() method - Step 148
+* IF STATEMENT ASSIGNMENT: Write your own if statement - Step 149
+* ELSE ASSIGNMENT: Write if and else statements + + document.getElementById() method + write a <button> element that contains an onlick - Step 151
+* ELSE IF ASSIGNMENT: Write out all code from the previous course step and successfully execute it in the browser - Step 153
+* JavaScript Commenting
+* Submitted 6/20/2021
 
 Authors
 Eric C. Boland
