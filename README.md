@@ -105,7 +105,19 @@ Project7_scope_time_function - Submission of seventh round of JavaScript challen
 * ELSE IF ASSIGNMENT: Write out all code from the previous course step and successfully execute it in the browser - Step 153
 * JavaScript Commenting
 * Submitted 6/20/2021
+  
+Project8_string_methods - Submission of eigth round of JavaScript challenges acquainting us with JavaScript functions, including the following: 
+* CONCAT() METHOD ASSIGNMENT: Create project folder, index.html, JS folder, and main.js, utilize the concat() method to connect two or more strings - Step 159
+* x
+* x
+* x
+* JavaScript Commenting
+* Submitted 6/TBD/2021
 
+  
+  
+  
+  
 Authors
 Eric C. Boland
 * GitHub:@EChristian74
