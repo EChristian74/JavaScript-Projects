@@ -108,11 +108,14 @@ Project7_scope_time_function - Submission of seventh round of JavaScript challen
   
 Project8_string_methods - Submission of eigth round of JavaScript challenges acquainting us with JavaScript functions, including the following: 
 * CONCAT() METHOD ASSIGNMENT: Create project folder, index.html, JS folder, and main.js, utilize the concat() method to connect two or more strings - Step 159
-* x
-* x
-* x
+* SLICE() METHOD ASSIGNMENT: Write a slice() method that displays a section of a string - Step 161
+* MORE METHODS CHALLENGE: Define, write, execute the toUpperCase() method + define, write, execute the search() method - Step 162
+* NUMBER METHODS ASSIGNMENT: Utilize the toString() method to return a number as a string - converted base 10 number using other base number systems (i.e. binary, octal, hexidecimal) - Step 164
+* TOPRECISION() METHOD ASSIGNMENT:  utilize the toPrecision() method to return a string as a number of a specified length - displayed only 9 of the first 18 digits of pi - Step 166
+* NEW METHODS CHALLENGE: Define, write, execute the toFixed() method + define, write, execute valueOf() method - Step 167
+*
 * JavaScript Commenting
-* Submitted 6/TBD/2021
+* Submitted 6/21/2021
 
   
   
