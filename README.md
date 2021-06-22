@@ -113,12 +113,9 @@ Project8_string_methods - Submission of eigth round of JavaScript challenges acq
 * NUMBER METHODS ASSIGNMENT: Utilize the toString() method to return a number as a string - converted base 10 number using other base number systems (i.e. binary, octal, hexidecimal) - Step 164
 * TOPRECISION() METHOD ASSIGNMENT:  utilize the toPrecision() method to return a string as a number of a specified length - displayed only 9 of the first 18 digits of pi - Step 166
 * NEW METHODS CHALLENGE: Define, write, execute the toFixed() method + define, write, execute valueOf() method - Step 167
-*
 * JavaScript Commenting
 * Submitted 6/21/2021
 
-  
-  
   
   
 Authors
