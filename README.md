@@ -110,13 +110,8 @@ Project9_countdown_slideshow - Submission of eigth round of JavaScript challenge
   
 * CODING ASSIGNMENT: Create project folder, index.html, JS folder, and main.js,write out all of the JavaScript code on Step 170 - Step 171
 * SLIDESHOW CHALLENGE: Create slide show using HTML, JavaScript, and CSS - Step 173
-*
-* 
-*
-*
-*
 * JavaScript Commenting
-* Submitted 6/TBD/2021
+* Submitted 6/23/2021
   
   
   
