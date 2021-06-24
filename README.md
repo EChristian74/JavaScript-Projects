@@ -46,6 +46,7 @@ Project2_Functions Submission - Submission of second round of JavaScript challen
 * JavaScript Commenting
 * Submitted 6/15/2021
 
+
 Project3_Math_Operators Submission - Submission of third round of JavaScript challenges acquainting us with JavaScript functions, including the following: 
 
 * MATH OPERATORS ASSIGNMENT: Create repository folder, index.html, addition operation  - Step 81
@@ -60,6 +61,7 @@ Project3_Math_Operators Submission - Submission of third round of JavaScript cha
 * JavaScript Commenting
 * Submitted 6/16/2021
 
+
 Project4_dictionaries Submission - Submission of fourth round of JavaScript challenges acquainting us with JavaScript functions, including the following: 
 
 * DICTIONARY ASSIGNMENT: Create project folder, index.html, JS folder, and main.js - Step 100
@@ -67,6 +69,7 @@ Project4_dictionaries Submission - Submission of fourth round of JavaScript chal
 * DELETE ASSIGNMENT: Test delete operator - Step 103
 * JavaScript Commenting
 * Submitted 6/18/2021
+
 
 Project5_comparisons_type_coercion - Submission of fifth round of JavaScript challenges acquainting us with JavaScript functions, including the following: 
 
@@ -85,6 +88,7 @@ Project5_comparisons_type_coercion - Submission of fifth round of JavaScript cha
 * JavaScript Commenting
 * Submitted 6/19/2021
 
+
 Project6_ternary__operators_constructors - Submission of sixth round of JavaScript challenges acquainting us with JavaScript functions, including the following: 
 
 * PROJECT6_TERNARY__OPERATORS_CONSTRUCTORS ASSIGNMENT: Create project folder, index.html, JS folder, and main.js - Step 130
@@ -96,6 +100,7 @@ Project6_ternary__operators_constructors - Submission of sixth round of JavaScri
 * JavaScript Commenting
 * Submitted 6/20/2021
 
+  
 Project7_scope_time_function - Submission of seventh round of JavaScript challenges acquainting us with JavaScript functions, including the following: 
 
 * LOCAL AND GLOBAL VARIABLE ASSIGNMENT: Create project folder, index.html, JS folder, and main.js, write a global variable, write a local variable, write a function with an error in it and use console.log() method to debug - Step 144
@@ -106,12 +111,18 @@ Project7_scope_time_function - Submission of seventh round of JavaScript challen
 * JavaScript Commenting
 * Submitted 6/20/2021
   
+  
 Project9_countdown_slideshow - Submission of eigth round of JavaScript challenges acquainting us with JavaScript functions, including the following: 
   
 * CODING ASSIGNMENT: Create project folder, index.html, JS folder, and main.js,write out all of the JavaScript code on Step 170 - Step 171
 * SLIDESHOW CHALLENGE: Create slide show using HTML, JavaScript, and CSS - Step 173
 * JavaScript Commenting
 * Submitted 6/23/2021
+  
+  
+
+
+  
   
   
   
