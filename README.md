@@ -112,15 +112,12 @@ Project7_scope_time_function - Submission of seventh round of JavaScript challen
 * Submitted 6/20/2021
   
   
-Project9_countdown_slideshow1 - Submission of eigth round of JavaScript challenges acquainting us with JavaScript functions, including the following: 
+Project9_countdown_slideshow - Submission of eigth round of JavaScript challenges acquainting us with JavaScript functions, including the following: 
   
 * CODING ASSIGNMENT: Create project folder, index.html, JS folder, and main.js - Step 171
 * CREATING A JAVASCRIPT PROGRAM: Create a timer that will countdown by seconds using HTML and JavaScript - Step 170
 * JavaScript Commenting
 * Submitted 6/28/2021
-  
-
-Project9_countdown_slideshow2 - Submission of eigth round of JavaScript challenges acquainting us with JavaScript functions, including the following: 
   
 * CODING ASSIGNMENT: Create project folder, index.html, JS folder, and main.js - Step 171
 * SLIDESHOW CHALLENGE: Create slide show using HTML, JavaScript, and CSS - Step 173
