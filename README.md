@@ -123,6 +123,25 @@ Project9_countdown_slideshow - Submission of eigth round of JavaScript challenge
 * SLIDESHOW CHALLENGE: Create slide show using HTML, JavaScript, and CSS - Step 173
 * JavaScript Commenting
 * Submitted 6/23/2021 
+
+
+Project10_loops_arrays - Submission of ninth round of JavaScript challenges acquainting us with JavaScript functions, including the following: 
+  
+* LOOPS ASSIGNMENT: Create project folder, index.html, JS folder, main.js, use the script element, the src attribute, and the defer attribute, and create a while loop - Step 199
+* LENGTH PROPERTY CHALLENGE: Define and learn how to use the JavaScript string length property, successfully write and execute the string length property in the browser - Step 200
+* FOR LOOP ASSIGNMENT: Write a for loop - Step 203
+* DOCUMENT.GETELEMENTBYID().INNERHTML ASSIGNMENT: Write an array within a function to be called, utilize a function with the document.getElementById().innerHTML method (that references the id attribute in your HTML code) to display a value (or values) of your array - Step 207
+* CONST KEYWORD ASSIGNMENT: Create an object through utilization of the const keyword, include properties with values, change a property, add a property, display a added and changed property - Step 215
+* LET KEYWORD ASSIGNMENT: utilize the let keyword - Step 217
+* RETURN STATEMENT CHALLENGE: Define, learn, execute JavaScript return statement - Step 220
+* OBJECT ASSIGNMENT: Create an object using the let keyword. Ensure your object includes properties and a method + reference the id you specified within your JavaScript code - Step 223
+* BREAK AND CONTINUE CHALLENGE: Define and learn how to utilize the break statement, write a loop that includes at least one break statement + define and learn how to utilize the continue statement, write a loop that includes at least one continue statement - Step 224
+* JavaScript Commenting
+* Submitted 7/3/2021
+  
+  
+  
+  
   
   
 Authors
