@@ -125,7 +125,7 @@ Project9_countdown_slideshow - Submission of eigth round of JavaScript challenge
 * Submitted 6/23/2021 
 
 
-Project10_loops_arrays - Submission of ninth round of JavaScript challenges acquainting us with JavaScript functions, including the following: 
+Project10_loops_arrays - Submission of tenth round of JavaScript challenges acquainting us with JavaScript functions, including the following: 
   
 * LOOPS ASSIGNMENT: Create project folder, index.html, JS folder, main.js, use the script element, the src attribute, and the defer attribute, and create a while loop - Step 199
 * LENGTH PROPERTY CHALLENGE: Define and learn how to use the JavaScript string length property, successfully write and execute the string length property in the browser - Step 200
@@ -137,12 +137,23 @@ Project10_loops_arrays - Submission of ninth round of JavaScript challenges acqu
 * OBJECT ASSIGNMENT: Create an object using the let keyword. Ensure your object includes properties and a method + reference the id you specified within your JavaScript code - Step 223
 * BREAK AND CONTINUE CHALLENGE: Define and learn how to utilize the break statement, write a loop that includes at least one break statement + define and learn how to utilize the continue statement, write a loop that includes at least one continue statement - Step 224
 * JavaScript Commenting
-* Submitted 7/3/2021
+* Submitted 7/4/2021
   
+
+JavaScript Projects - Submission of eleventh round of JavaScript challenges acquainting us with JavaScript functions, including the following: 
+ 
+* SWITCH STATEMENT: Create project folder, .html file, Javascript folder, .js file + write out and execute a switch statement - Step 227
+* DOCUMENT.GETELEMENTSBYCLASSNAME() METHOD ASSIGNMENT: Utilize the document.getElementsByClassName() method - Step 238
+* CANVAS ELEMENT ASSIGNMENT: Utilize the <canvas> element + add a border to the canvas - Step 240
+* CANVAS CHALLENGE: Research how to create graphics with Javascript + graphic within the canvas - Step 241
+* GRADIENT COLOR CHALLENGE: Define and utilize the HTML canvas createLinearGradient() method + create a gradient color background within a canvas - Step 242
+* CONTACT FORM CHALLENGE: Create a basic contact form + add form validation to a field (or fields) of your contact form, style with CSS, utilize JavaScript for form validation - Step 243
+* 
+*
+* JavaScript Commenting
+* Submitted 7/TBD/2021
   
-  
-  
-  
+
   
 Authors
 Eric C. Boland
