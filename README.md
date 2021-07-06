@@ -147,11 +147,16 @@ JavaScript Projects - Submission of eleventh round of JavaScript challenges acqu
 * CANVAS ELEMENT ASSIGNMENT: Utilize the <canvas> element + add a border to the canvas - Step 240
 * CANVAS CHALLENGE: Research how to create graphics with Javascript + graphic within the canvas - Step 241
 * GRADIENT COLOR CHALLENGE: Define and utilize the HTML canvas createLinearGradient() method + create a gradient color background within a canvas - Step 242
-* CONTACT FORM CHALLENGE: Create a basic contact form + add form validation to a field (or fields) of your contact form, style with CSS, utilize JavaScript for form validation - Step 243
-* 
-*
+* CONTACT FORM CHALLENGE: Create new .html, .css, and .js files, then basic contact form + add form validation to a field (or fields) of your contact form, style with CSS, utilize JavaScript for form validation - Step 243
+* DATA ATTRIBUTE ASSIGNMENT: Create new .html and .js files, utilize the data attribute, and customize the content - Step 266
+* TIC TAC TOE GAME: Create project folder, .html file, CSS folder, .css file, Javascript folder, .js file, create and customize a tic tac toe computer game in HTML, CSS and JavaScript - Step 269-270
+* ARROW FUNCTION CHALLENGE: Write an arrow function as an inline Javascript function - Step 277
+* .SOME() METHOD CHALLENGE: Write and execute your own .some() method - Step 278
 * JavaScript Commenting
 * Submitted 7/TBD/2021
+ 
+
+
   
 
   
