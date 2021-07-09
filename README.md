@@ -150,10 +150,10 @@ JavaScript Projects - Submission of eleventh round of JavaScript challenges acqu
 * CONTACT FORM CHALLENGE: Create new .html, .css, and .js files, then basic contact form + add form validation to a field (or fields) of your contact form, style with CSS, utilize JavaScript for form validation - Step 243
 * DATA ATTRIBUTE ASSIGNMENT: Create new .html and .js files, utilize the data attribute, and customize the content - Step 266
 * TIC TAC TOE GAME: Created and customized a tic tac toe computer game in HTML, CSS and JavaScript - Step 269-284
-* ARROW FUNCTION CHALLENGE: Write an arrow function as an inline Javascript function - Step 277 - NOT SUBMITTED
-* .SOME() METHOD CHALLENGE: Write and execute your own .some() method - Step 278 - NOT SUBMITTED
+* HTML CALCULATOR ASSIGNMENT: Create new .html, .css, and .js files, write the HTML code, execute in browser fully functional calculator - Step 290-292
+* 
 * JavaScript Commenting
-* Submitted 7/6/2021
+* Submitted - Multiple Dates
  
 
 
