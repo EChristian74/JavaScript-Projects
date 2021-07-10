@@ -150,13 +150,7 @@ JavaScript Projects - Submission of eleventh round of JavaScript challenges acqu
 * DATA ATTRIBUTE ASSIGNMENT: Create new .html and .js files, utilize the data attribute, and customize the content - Step 266
 * TIC TAC TOE GAME: Created and customized a tic tac toe computer game in HTML, CSS and JavaScript - Step 269-284
 * HTML CALCULATOR ASSIGNMENT: Create new .html, .css, and .js files, write the HTML code, execute in browser fully functional calculator - Step 290-292
-* PIZZA MENU ASSIGNMENT: Create new .html, .css, and .js files and folders + create a menu for ordering pizza using HTML and JavaScript - Step 299-310
-  
-  
-  
-  
-  
-  
+* PIZZA MENU ASSIGNMENT: Create new .html, .css, and .js files and folders + create and customize a menu for ordering pizza using HTML and JavaScript - Step 299-310  
 * JavaScript Commenting
 * Submitted - Multiple Dates
  
