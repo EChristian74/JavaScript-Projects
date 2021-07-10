@@ -73,7 +73,7 @@ Project4_dictionaries Submission - Submission of fourth round of JavaScript chal
 
 Project5_comparisons_type_coercion - Submission of fifth round of JavaScript challenges acquainting us with JavaScript functions, including the following: 
 
-* DICTIONARY ASSIGNMENT: Create project folder, index.html, JS folder, and main.js
+* DICTIONARY ASSIGNMENT: Create project folder, index.html, JS folder, and main.js - Step 106
 * DICTIONARY CHALLENGE: document.write()” method and “type of” operator to return variable data type - Step 107
 * TYPE COERCION ASSIGNMENT: Utilize type coercion to execute data type converstion - Step 108
 * NAN CHALLENGE: Display NaN, utilize the isNaN() function to make the browser display “true,” and utilize the isNaN() function to make the browser display “false”
@@ -118,7 +118,6 @@ Project9_countdown_slideshow - Submission of eigth round of JavaScript challenge
 * CREATING A JAVASCRIPT PROGRAM: Create a timer that will countdown by seconds using HTML and JavaScript - Step 170
 * JavaScript Commenting
 * Submitted 6/28/2021
-  
 * CODING ASSIGNMENT: Create project folder, index.html, JS folder, and main.js - Step 171
 * SLIDESHOW CHALLENGE: Create slide show using HTML, JavaScript, and CSS - Step 173
 * JavaScript Commenting
@@ -151,7 +150,13 @@ JavaScript Projects - Submission of eleventh round of JavaScript challenges acqu
 * DATA ATTRIBUTE ASSIGNMENT: Create new .html and .js files, utilize the data attribute, and customize the content - Step 266
 * TIC TAC TOE GAME: Created and customized a tic tac toe computer game in HTML, CSS and JavaScript - Step 269-284
 * HTML CALCULATOR ASSIGNMENT: Create new .html, .css, and .js files, write the HTML code, execute in browser fully functional calculator - Step 290-292
-* 
+* PIZZA MENU ASSIGNMENT: Create new .html, .css, and .js files and folders + create a menu for ordering pizza using HTML and JavaScript - Step 299-310
+  
+  
+  
+  
+  
+  
 * JavaScript Commenting
 * Submitted - Multiple Dates
  
