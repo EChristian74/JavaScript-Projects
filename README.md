@@ -151,14 +151,12 @@ JavaScript Projects - Submission of eleventh round of JavaScript challenges acqu
 * TIC TAC TOE GAME: Created and customized a tic tac toe computer game in HTML, CSS and JavaScript - Step 269-284
 * HTML CALCULATOR ASSIGNMENT: Create new .html, .css, and .js files, write the HTML code, execute in browser fully functional calculator - Step 290-292
 * PIZZA MENU ASSIGNMENT: Create new .html, .css, and .js files and folders + create and customize a menu for ordering pizza using HTML and JavaScript - Step 299-310  
+* ONE-PAGE WEBSITE CHALLENGE: Open the One-Page Website folder and run the one_page_website.html file in the browser to re-familiarize yourself with the project, create a .js file and folder, then create a lightbox (modal image gallery) for all of your images - Step 311-312
 * JavaScript Commenting
 * Submitted - Multiple Dates
  
 
-
-  
-
-  
+ 
 Authors
 Eric C. Boland
 * GitHub:@EChristian74
