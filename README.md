@@ -8,16 +8,14 @@ Dependencies
 * CSS
 * Git Bash
 * GitHub Desktop
-* Notepad++
-* Visual Studio
+* Visual Studio Code
 * Bootstrap
 
 
-Installatiions
-* GitHub
+Installations
+* Git Bash
 * GitHub Desktop
-* Visual Studio
-
+* Visual Studio Code
 
 Projects
 
@@ -154,7 +152,6 @@ JavaScript Projects - Submission of eleventh round of JavaScript challenges acqu
 * JavaScript Commenting
 * Submitted - Multiple Dates
  
-
  
 Authors
 Eric C. Boland
