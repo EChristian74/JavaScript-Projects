@@ -6,7 +6,6 @@ Dependencies
 * Windows 10 OS
 * HTML5
 * CSS
-* Git Bash
 * GitHub Desktop
 * Visual Studio Code
 * Bootstrap
@@ -16,6 +15,7 @@ Installations
 * Git Bash
 * GitHub Desktop
 * Visual Studio Code
+
 
 Projects
 
