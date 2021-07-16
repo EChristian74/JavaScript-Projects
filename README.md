@@ -9,12 +9,18 @@ Dependencies
 * GitHub Desktop
 * Visual Studio Code
 * Bootstrap
+* jQuery
+* React
+* JSX
+* Node.js
+* Chocolately
 
 
 Installations
 * Git Bash
 * GitHub Desktop
 * Visual Studio Code
+* Node.js
 
 
 Projects
@@ -151,7 +157,21 @@ JavaScript Projects - Submission of eleventh round of JavaScript challenges acqu
 * PIZZA MENU ASSIGNMENT: Create new .html, .css, and .js files and folders + create and customize a menu for ordering pizza using HTML and JavaScript - Step 299-310  
 * JavaScript Commenting
 * Submitted - Multiple Dates
+  
+  
+React_Projects - Series of assignment incorporating React into HTML and Javascript projects.
+
+* REACT FILE ASSIGNMENT: File Ref: Create a timer that counts upward using a blend of React, vanilla Javascript, etc. using React code file downloads - Step 374-375
+* REACT FILE ASSIGNMENT: URL Ref: Create an object within a class, implement a property, constructor, and schedule a UI update - Step 377
+* JSX Assignment: Specify a class or function using React.Component, utilize render() and a return statement - Step 382
+* NODE.JS ASSIGNMENT: Within VS Code, spin up a basic React app in the browser from the Command Line - Step 388
  
+  
+  
+  
+  
+  
+  
  
 Authors
 Eric C. Boland
