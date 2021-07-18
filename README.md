@@ -166,7 +166,19 @@ React_Projects - Series of assignment incorporating React into HTML and Javascri
 * JSX Assignment: Specify a class or function using React.Component, utilize render() and a return statement - Step 382
 * NODE.JS ASSIGNMENT: Within VS Code, spin up a basic React app in the browser from the Command Line - Step 388
  
+VW UNIT CHALLENGE - Series of exercises using site with HTML, CSS and JavaScript to prepare for updating portfolio site using the following:
   
+* Apply Responsive Text
+* Apply Fade-in Effect for Webpages
+* Create a form that includes a phone number field
+* Create a popup contact form
+* Successfully utilize the keyframe rule to animate an element
+* Zoom in and out on an image using CSS
+* Utilize HTML bookmarks to link to various sections of a webpage
+* Apply smooth scrolling when taken down the page to the various links
+* Create an automatic slideshow
+* Create a sticky contact button on the bottom right of a web page
+* Make it so that a contact form pop ups when the sticky contact button is clicked
   
   
   
