@@ -32,7 +32,7 @@ function showSlides() {
       slides[i].style.display = "none";  
     }
     slideIndex++;
-    if (slideIndex > slides.length) {slideIndex = 1}  
+    if (slideIndex > slides.length) {slideIndex = 1,2,3,4,5,6,7,8,9,10}  
     slides[slideIndex-1].style.display = "block";  
     for (i = 0; i < dots.length; i++) {
       dots[i].className = dots[i].className.replace(" active", "");
